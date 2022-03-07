@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from './pages/Header';
 
 const Home = () => {
     return (
         <div>
-            <div></div>
+            {/* <Header></Header> */}
+            <p>hello</p>
+           
         </div>
     );
 };
